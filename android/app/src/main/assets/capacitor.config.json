@@ -1,0 +1,6 @@
+{
+	"appId": "com.tourmanager.app",
+	"appName": "Tour Manager",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,13 @@
+# Build & Output
+/build
+/app/build
+/dist
+/node_modules
+/.expo
+/.gradle
+/.idea
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
